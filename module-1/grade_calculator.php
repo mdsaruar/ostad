@@ -34,5 +34,3 @@ echo "The Total marks   = " . $total . "\n\n";
 echo "The Average marks = " . $average_mark . "\n\n";
 echo "The Percentage    = " . $percentage_2 . "%\n\n";
 echo "The Grade         = " . $grade . "\n\n";
-
-?>
