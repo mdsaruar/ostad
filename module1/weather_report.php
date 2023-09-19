@@ -1,9 +1,5 @@
 <?php
-
-// Task 5: Weather Report
-
-
-$temperature = 42; // Change this value to the current temperature
+$temperature = 25; // Change this value to the current temperature
 
 if ($temperature <= 0) {
     echo "It's freezing!";
@@ -14,3 +10,4 @@ if ($temperature <= 0) {
 } else {
     echo "Invalid temperature data.";
 }
+?>
