@@ -26,7 +26,6 @@ for ($i = 0; $count < 10; $i++) {
     if ($fib > 100) {
         break; // Break out of the loop
     }
-
     echo $fib . " ";
     $count++;
 }

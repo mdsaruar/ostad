@@ -7,7 +7,8 @@ this 15 as an argument of a function and use a for loop to generate these number
 them by calling the function.
 */
 
-function printFibonacci($n) {
+function printFibonacci($n)
+{
 
     $first = 0;
     $second = 1;
@@ -18,7 +19,7 @@ function printFibonacci($n) {
         echo $first;
 
         if ($i < $n) {
-            echo ", ";
+            echo " ";
         } else {
             echo "\n";
         }
