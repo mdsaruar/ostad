@@ -30,5 +30,3 @@ for ($i = 0; $count < 10; $i++) {
     echo $fib . " ";
     $count++;
 }
-
-?>

@@ -17,5 +17,5 @@ for ($i = 1; $i <= 50; $i++) {
     }
 
     // Print the number
-    echo $i . "\n";
+    echo $i . ",";
 }
