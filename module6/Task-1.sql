@@ -8,7 +8,7 @@ SELECT
     COUNT(`orders`.id) AS TotalOrders, 
     customers.name AS Name, 
     customers.email AS Email, 
-    customers.phone AS Phone,
+    customers.location AS location,
 FROM 
     `orders`
 LEFT JOIN 
