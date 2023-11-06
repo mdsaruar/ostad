@@ -1,4 +1,3 @@
-
 /*
 	Task 1: 
 	Write a SQL query to retrieve all the customer information along with the total number of orders placed by each customer. Display the result in descending order of the number of orders.
