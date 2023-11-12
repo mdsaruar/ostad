@@ -1,0 +1,4 @@
+1, saruar@mail.com, saruar, 1234, admin
+2, user@mail.com, user, 12345, user
+3, manager@mail.com, manager, 123456, manager
+4, shohag@mail.com, shohag, 123456, user
